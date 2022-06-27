@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.recyclerview.Adapter.NewsAdapter
 import com.example.recyclerview.Models.News
 import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
